@@ -1,0 +1,29 @@
+.App-header {
+  display: flex;
+  align-items: center;
+  color: #e0354b;
+  font-size: 1.5rem;
+  border-bottom: 0.2rem solid #e0354b;
+}
+
+.App-header > .logo {
+  width: 200px;
+}
+
+.App-body {
+  margin: 0;
+  padding: 40px;
+}
+
+.App-body > input {
+  margin: 0 8px;
+}
+
+.App-footer {
+  border-top: 0.2rem solid #e0354b;
+  width: 100%;
+  position: fixed;
+  bottom: 0%;
+  text-align: center;
+  font-style: italic;
+}
